@@ -1,0 +1,53 @@
+#navbar{
+    width: 75%;
+    margin: auto;
+    margin-top: 50px;
+    height: 100px;
+    background-color: hsla(0, 0%, 50%, 0.233);
+    border-radius: 15px;
+    
+    }
+    #menu{
+        margin: auto;
+        gap: 20px;
+    
+    
+       
+    }
+    
+    #menu > li >a{
+        color: blueviolet;
+        display: flex;
+    }
+   
+    .input-buscar {
+    display: flex;
+    margin: 80px;
+     justify-content: space-around;
+     align-content: space-between;
+     color: blueviolet;
+    
+    }
+    #modal-form{
+        display: flex;
+        gap: 50px;
+        padding: 50px;
+       
+    }
+    
+    .guardarCambios{
+    margin-top: 50px ;
+    }
+    
+    body > div > div:nth-child(3) > span{
+        color: red;
+      
+    }
+    
+    .informacion-compra{
+        display:flex;
+       justify-content: center;
+       gap:100px ;
+       border: solid 1px;
+    }
+
